@@ -1,7 +1,7 @@
 _**Division of Labor**_
 
 1. *Nat* worked on creating a new branch (TEAMWORK) which was then approved by *Johnson*.
-2. *Johnson* created the repository, added and fixed a branch (troubleshooting) which was approved by *Hannah*.
+2. *Johnson* created the repository, added a branch (troubleshooting) which was approved by *Hannah*.
 3. *Hannah* made changes to the README file, which was approved by *Shreya*.
 4. *Shreya* made the changes to TEAMWORK contract, which was then approved by *Nat*.
 
