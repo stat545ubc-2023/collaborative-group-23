@@ -21,10 +21,11 @@ _**Division of Labor**_
 
 _**Division of Labor**_
 
-1. *Nat* made adjustments to the troubleshooting-2.Rmd file, which was then approved by **.
+1. *Nat* made adjustments to the troubleshooting-2.Rmd file, which was then approved by *Johnson*.
 2. *Johnson* added the troubleshoot package, modified the README.md and TEAMWORK.md files, submitted the pull request which was approved by *Hannah*.
-3. *Hannah* made adjustments to the troubleshooting-2.Rmd file, which was approved by **.
-4. *Shreya* made adjustments to the troubleshooting-2.Rmd file, which was then approved by **.
+3. *Hannah* made adjustments to the troubleshooting-2.Rmd file, modified TEAMWORK.md file and approved the merge of the Troubleshoot Doucment, which was approved by *Johnson*.
+4. *Shreya* made adjustments to the troubleshooting-2.Rmd file, which was then approved by *Shreya*.
+5. File Knitted Troubleshoot Document pushed by *Shreya*, and merged by *Nat*. 
 
 
 **Communication**
