@@ -493,11 +493,21 @@ Manually create a tibble with 4 columns:
 fakeStarWars <- tibble(names = c("Luke Skywalker","C-3PO","R2-D2","Darth Vader","Leia         Organa","Owen Lars","Beru Whitesun Iars","R5-D4") ,
                        birth_year = c(1998,1999,2000,2001,2002,2003,2004,2005),
                        birth_weight = (birth_year - 1995) * 0.45,
-                       location = c ("England", "England", "USA", "England",     "USA","USA","England","USA"))
-print(FakeStarWars)
+                       birth_location = c ("Liverpool", "Seattle", "New York","Liverpool", "Seattle", "New York","New York","Liverpool"))
+print(fakeStarWars)
 ```
 
-    ## Error in eval(expr, envir, enclos): object 'FakeStarWars' not found
+    ## # A tibble: 8 × 4
+    ##   names               birth_year birth_weight birth_location
+    ##   <chr>                    <dbl>        <dbl> <chr>         
+    ## 1 Luke Skywalker            1998         1.35 Liverpool     
+    ## 2 C-3PO                     1999         1.8  Seattle       
+    ## 3 R2-D2                     2000         2.25 New York      
+    ## 4 Darth Vader               2001         2.7  Liverpool     
+    ## 5 Leia         Organa       2002         3.15 Seattle       
+    ## 6 Owen Lars                 2003         3.6  New York      
+    ## 7 Beru Whitesun Iars        2004         4.05 New York      
+    ## 8 R5-D4                     2005         4.5  Liverpool
 
 ## Attributions
 
